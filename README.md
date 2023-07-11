@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # UCRI
 Unified Course Registration Interface (UCRI)🗒️
 
@@ -36,32 +30,12 @@ Run the main file
 
     java main
 
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+  - **Goben Diego C.A.** - **Jesus Eduardo N.C.** - **Daniel M.M.** - **Juan Carlos S.B.** - **Diego D.A.** -
+    [Goben Diego C.A.](https://github.com/PocketNugget)
+    [Daniel M.M.](https://github.com/ZapatoProgramming)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
@@ -71,6 +45,4 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+  - Jose Luis Zechinelli Martini (Our teacher)
