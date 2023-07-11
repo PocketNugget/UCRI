@@ -32,9 +32,7 @@ Run the main file
 
 ## Authors
 
-  - **Goben Diego C.A.** - **Jesus Eduardo N.C.** - **Daniel M.M.** - **Juan Carlos S.B.** - **Diego D.A.** -
-    [Goben Diego C.A.](https://github.com/PocketNugget)
-    [Daniel M.M.](https://github.com/ZapatoProgramming)
+  - [Goben Diego C.A.](https://github.com/PocketNugget) - **Jesus Eduardo N.C.** - [Daniel M.M.](https://github.com/ZapatoProgramming) - **Juan Carlos S.B.** - **Diego D.A.** -
 
 
 ## License
