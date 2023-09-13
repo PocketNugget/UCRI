@@ -15,6 +15,7 @@ Initially appeared on
 
 Requirements for the software and other tools to build, test and push 
 - [Latest version of OpenJDK](https://openjdk.org)
+- [JDBC connector for MySQL version 8.0.33](https://downloads.mysql.com/archives/c-j/)
 
 ### Installing and executing
 
